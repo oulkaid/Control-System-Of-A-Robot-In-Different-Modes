@@ -11,7 +11,7 @@ LiquidCrystal lcd(1,2,4,5,6,7);
 #define ledR A1
 #define ledG A2
 #define ledY A3
-#define buzzer A4
+#define buzzer A4 //com
 int ObstaclePin = 13;
 int Obstacle = HIGH;
 String x;
