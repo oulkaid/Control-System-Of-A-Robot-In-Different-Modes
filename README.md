@@ -103,7 +103,7 @@ All the commands will be made with the use of a remote control.
 
 The project contains one single file :
 
-1. [Arduino_Code.ino](Arduino_Code.ino) : contains the code to be run on the Arduino card
+1. [Arduino_Code.ino](src/Arduino_Code.ino) : contains the code to be run on the Arduino card
 
 ---
 
